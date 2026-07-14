@@ -20,6 +20,14 @@ kernelspec:
 
 +++
 
+```{admonition} Authors & acknowledgment
+:class: note
+Developed by **Scott Collis** with **Claude** (Anthropic), which assisted in
+building and validating the data-access, masking, and offset-calibration pipeline.
+```
+
++++
+
 ## Overview
 
 Differential reflectivity ($Z_{DR}$) is the ratio, in decibels, of the reflectivity
