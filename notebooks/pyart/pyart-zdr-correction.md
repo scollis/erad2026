@@ -20,6 +20,14 @@ kernelspec:
 
 +++
 
+```{admonition} Authors & acknowledgment
+:class: note
+Developed by **Scott Collis** with **Claude** (Anthropic), which assisted in
+building and validating the data-access, masking, and offset-calibration pipeline.
+```
+
++++
+
 ## Overview
 
 Differential reflectivity ($Z_{DR}$) is the ratio, in decibels, of the reflectivity
@@ -335,10 +343,3 @@ On $Z_{DR}$ calibration:
 
 * Bringi, V. N., & Chandrasekar, V. (2001). *Polarimetric Doppler Weather Radar.* Cambridge University Press.
 * Ryzhkov, A. V., et al. (2005). Calibration issues of dual-polarization radar measurements. *J. Atmos. Oceanic Technol.*, 22, 1138–1155.
-
-+++
-
-```{admonition} Acknowledgment
-:class: note
-This notebook was developed with **Claude** (Anthropic).
-```
