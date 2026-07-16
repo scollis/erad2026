@@ -108,6 +108,10 @@ project:
         - title: Post Course
           children:
             - file: notebooks/workflow/post_course.md
+  jupyter:
+    binder:
+      repo: ProjectPythia/erad2026
+      url: https://binder.projectpythia.org/
 site:
   options:
     logo: images/logos/openradar_logo.svg
@@ -121,3 +125,6 @@ site:
       url: https://openradarscience.org
     - title: Discourse
       url: https://openradar.discourse.group/
+  actions:
+    - title: Launch Environment
+      url: https://binder.projectpythia.org/v2/gh/ProjectPythia/erad2026/main?labpath=notebooks
